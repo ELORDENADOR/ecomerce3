@@ -1,0 +1,145 @@
+{
+  "water": [
+    {
+      "id": 1,
+      "name": "Squirtle",
+      "img": "https://cdna.artstation.com/p/assets/images/images/036/372/518/large/paz-itzhaki-20210404-024549-02.jpg?1617494908",
+      "price": 600,
+      "agressive": true
+    },
+    {
+      "id": 3,
+      "name": "Tentacruel",
+      "img": "https://files.cults3d.com/uploaders/20771513/illustration-file/6fad67be-fa82-4d56-b094-5c9489b020b1/Tentacruel.gif",
+      "price": 80,
+      "agressive": true
+    },
+    {
+      "id": 4,
+      "name": "Kingler",
+      "img": "https://www.models-resource.com/resources/big_icons/55/54902.png?updated=1665879900",
+      "price": 80,
+      "agressive": true
+    },
+    {
+      "name": "mewto",
+      "price": 100,
+      "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYCAwQHAf/EADYQAAEDAgQEBAMHBAMAAAAAAAECAxEABAUSITETQVFhBnGBkRQioSMyQlKx0fAVM5LBB+Hx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//EAB4RAQEAAgICAwAAAAAAAAAAAAABAhEhMRIiMkFh/9oADAMBAAIRAxEAPwD3GlKUClKUCsXCoIUUAFQBgHmayrjxN5TTAS2YccOUH8o5n2+pFBos8US46lD6mUBaM6Dmy5tRyPmOdb14gym5DEEmQkqTBCSdgfp7ioZSIU0UEJKNk9UxBH87V8bQhu8s1phDfGgoGiZMgGPM1WhZqUpUhSlKBSlKBWm7e+HtnXgnNw0FUdYraCDsZqJvsZTa51LaSWkuBvMVxqSE7RtJoPtrik3rdrcONFTqCW8oIkiJG56/TnWfiBxLFjxjq4hX2afzHoe37c9qpV6q3U+t1sISkrzkJEISOUdv5pUhdOIdsLM3t2QwtQcCWyIHykiZ5R0gVWmsbtQxF+xW3duWimXeItBhKljKYGvIyD3qRtWri7vWmnCgBJDi8swAI29f1rgFkzfK4mb7Rj5BIzJUmNNFTGkjtU1gJtUPuNttgPZJCzMkTqO0abb6UonqUpUsKUpQKqvjXFHmlWmGWZh+7UAe4JCQD2JOvlVqqieNQLbxRg166YZzNyegQ5J+ihWztWPZiOD33h9hN/Z3PEDccZTSMhT3jUFP6VM+H7vD8bT8Q5bs/HNxxRHsoA/+jap91tDqFNuJCkKBCknYg8q8tK3vDXiJfCk8Bwpyk6ONnWPUR6jtVfJU9p+vRhg2HpuBcJtUBwGdJyz1y7fSs3cNtFpcysNoW595aUAHef1ANbbK6ZvbZu5tlhbTglJH6edZvvIYbLjqsqRUOarXSXLB1xTbYzJhK0TE6kgg+p/gqPt7TEX1m4tI4ltlPyL+cyI0nQ6JI136VKYuHrp5VwUhDSUABs/e0kyeXM1CWuPKw+7W6y0VtoORzX74B19uR/eq1aqS3pasKxrjhDV63wXychOyc3IQdQT0PvU1UFiKLfEMP/qNuQQlBK9YzJG4Pccv+67MJveM3wXl5n0Dc/jHXz61iUjSlKwKrnjzDTf4EtxtOZ21PFA6p/EPbX0FWOvhAIg7UbLpXfCGOoxKybt7hY+MaTBk/wB0D8Q/3UZ/yHh2jGJtpOn2L0dNSk+8j1FRWLYSrBMRUhoFLCiXLZQ0gdOxH6RU5hGLoxVheE4t8/GSUJd2zdj0V0Pbrv08de0dPHXtFVwTG7zB3FG2UFtLMrZX91Xfse9XGwxhWNMi5Vb8JDailKM+aVRqrYdYHrVLxrCn8HvTb3GqFSWnY0cH79R/qKm/D9wlrAmkNffzuT2+c60snZnJZuLDmzKnfrNecsPlKd5nWetTuL4qphhbAeJdcBTAOqR1NV5pJdcDTIlXTkB1Nbi3DjlbcD+IuMDLFsApbkKCCd+G4NP8QfYV9duXrN23ZeadRdthC3AgZsu8q5wIKSeUyK7/AATZLQF3BngoTwm5/EZ+Y/SPOelWyNZqLeXK3lrtVuOW7S3UZHFISVJ/KY1FbaUqWFKUoOTErBjEbU29wDB1SobpPUVTh4ZxNq9bSlKFthwEPpUAAJ3IOsjpr51fKVUysVMrHHiqLVdi4L1lDzUf21Ccx2AHearNn4fD02jLymGQCpS2jKkkmYBVPOdeg6walcZuVccpTq2wmSBzWRt6CP8ALtXdgiU/05pwEKW6M7hH5juPTb0rPpiDtfAeEsqzPO3L+skLWAD7AH61ynCLP+qC1tUJbZVc5Sls7pAlQnroqrbfuuM2jjjKZWkaaTHeOcbxVAaffsrglpa1ZVBSHVpPznWdeffzpG7teiMtIZaS00hKG0CEpSIAFZ1C2niWweaBfUph2NUKSSPMEDapW3uGrhBWysKAMGOR6HpWJbaUpQKUpQK5cRufhWAoAZlqyJnYE8z7V1Vg82h1sodQlaFaFKhIPpQVjM0pl1pvjPQfnWhtbnzdSQN67/DJCGHGWVOOMJhSXVDcmZA8oHvUyhCUJCUAJSNABsKyrdhWi8tGL1gsXLYcbPI8j1B5HvW+lYIFrwwy0o8O8uUg9Msx7VK4fYsYexwbYEImfmMk6Rv5Ae1dNKBSlKD/2Q==",
+      "id": 5
+    },
+    {
+      "name": "picahu",
+      "price": 80,
+      "img": "data:image/jpeg;base64,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",
+      "id": 6
+    },
+    {
+      "name": "Actualizado",
+      "price": 600,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2RIwibbtAl7K_PLxQAq1cGaiYz5SP7zW_tgAHj1ieLg&s",
+      "id": 7
+    },
+    {
+      "name": "rata",
+      "price": 100,
+      "img": "https://www.geekno.com/wp-content/uploads/2016/08/rattata.jpeg",
+      "id": 11
+    },
+    {
+      "name": "ricardo gonzalez",
+      "price": 100,
+      "img": "https://www.marca.com/videojuegos/nintendo/2021/02/22/602ac37b268e3e8b288b45f1.html",
+      "id": 12
+    }
+  ],
+  "fire": [
+    {
+      "id": 1,
+      "name": "Charmander",
+      "img": "https://mir-s3-cdn-cf.behance.net/projects/404/8d58b3146693641.Y3JvcCwxMjE2LDk1MSw0NjAsMTIw.png",
+      "price": 80,
+      "agressive": false
+    },
+    {
+      "id": 2,
+      "name": "Charizard",
+      "img": "https://www.pngitem.com/pimgs/m/454-4540452_charizard-pokemon-charizard-hd-png-download.png",
+      "price": 80,
+      "agressive": true
+    },
+    {
+      "id": 3,
+      "name": "Arcanine",
+      "img": "https://www.pngmart.com/files/22/Arcanine-Pokemon-PNG-Pic.png",
+      "powerLevel": 46,
+      "agressive": false
+    },
+    {
+      "id": 4,
+      "name": "Rapidash",
+      "img": "https://files.cults3d.com/uploaders/26118801/illustration-file/bf2b9591-7b6d-4635-b366-fb6583e4c5a9/Screenshot-16.png",
+      "price": 80,
+      "agressive": false
+    }
+  ],
+  "air": [
+    {
+      "id": 1,
+      "name": "Pidgeot",
+      "img": "https://files.cults3d.com/uploaders/17560495/illustration-file/470697f7-6681-4151-b480-e11ac9c2099f/pidgeot.jpg",
+      "price": 80,
+      "agressive": true
+    },
+    {
+      "id": 2,
+      "name": "Scyther",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64f40a0d-3139-4753-92f6-0b6d8ac2778b/d5omp4c-87298994-f0ce-4585-b0bf-ae63668d698f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0ZjQwYTBkLTMxMzktNDc1My05MmY2LTBiNmQ4YWMyNzc4YlwvZDVvbXA0Yy04NzI5ODk5NC1mMGNlLTQ1ODUtYjBiZi1hZTYzNjY4ZDY5OGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eXhuvZ58-SgjBpiySklR8dVe_U2Wr9nmg9r7rt-0SfM",
+      "price": 80,
+      "agressive": true
+    },
+    {
+      "id": 3,
+      "name": "Yanma",
+      "img": "https://images.free3d.com/imgd/l48309-yanma-pokemon-44159.png",
+      "price": 80,
+      "agressive": false
+    },
+    {
+      "id": 4,
+      "name": "Ho oh",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png",
+      "price": 80,
+      "agressive": true
+    }
+  ],
+  "electric": [
+    {
+      "id": 1,
+      "name": "Pikachu",
+      "img": "https://www.pngitem.com/pimgs/m/9-98231_pikachu-3d-png-pokepark-wii-pikachus-adventure-transparent.png",
+      "price": 80,
+      "agressive": true
+    },
+    {
+      "id": 2,
+      "name": "Voltorb",
+      "img": "https://files.cults3d.com/uploaders/5909433/illustration-file/08932cf3-648b-4149-893f-0ac854477225/Capture%20d%E2%80%99e%CC%81cran%202016-12-07%20a%CC%80%2010.13.29.png",
+      "price": 80,
+      "agressive": true
+    },
+    {
+      "id": 3,
+      "name": "Electivire",
+      "img": "https://www.seekpng.com/png/full/990-9902999_electivire-pbh-electivire.png",
+      "price": 80,
+      "agressive": true
+    },
+    {
+      "id": 4,
+      "name": "Thundurus",
+      "img": "https://www.seekpng.com/png/detail/229-2299500_642thundurus-therian-3d-pro-3d-pokemon.png",
+      "price": 80,
+      "agressive": true
+    }
+  ]
+}
