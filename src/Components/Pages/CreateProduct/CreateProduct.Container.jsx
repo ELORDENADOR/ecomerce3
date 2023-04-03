@@ -1,6 +1,7 @@
 import axios from 'axios'
 import React, { useState } from 'react'
 import { Navigate, useNavigate } from 'react-router-dom'
+import { createProduct } from '../../../Services/productServices'
 import CreateProduct from './CreateProduct'
 
 
@@ -24,7 +25,7 @@ const navigate = useNavigate()
            img: newProduct.img
        }
        
-       const create = axios.post("http://localhost:5000/water", data);
+       const create = createProduct(data)
        create.then((res) => console.log(res)).catch((err) => console.log(err));
        navigate("/shop")
        

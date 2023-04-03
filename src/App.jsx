@@ -1,10 +1,10 @@
 import './App.css'
 import {BrowserRouter,Routes,Route} from "react-router-dom"
-import ProductsContainer from './Components/Pages/Producs/Products.Container'
+import ProductsContainer from './Components/Pages/Products/Products.Container'
 import Home from './Components/Pages/Home/Home'
 // import CreateProduct from './Components/Pages/CreateProduct/CreateProduct'
 import NavbarLayout from './Components/Layout/NavbarLayout/NavbarLayout'
-import FooterLayout from './Components/Layout/FooterLyout/FooterLayout'
+import FooterLayout from './Components/Layout/FooterLayout/FooterLayout'
 // import CreateProduct from './Components/Pages/CreateProduct/CreateProduct.Container'
 import CreateProductContainer from './Components/Pages/CreateProduct/CreateProduct.Container'
 import ProductDetailContainer from './Components/Pages/ProductDetailContainer/ProductDetail.Container'
