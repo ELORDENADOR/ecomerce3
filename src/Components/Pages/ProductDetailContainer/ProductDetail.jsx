@@ -1,7 +1,6 @@
-import React from 'react'
 
+const ProductDetail = ({product,showForm,setShowForm,handleSubmit,producSelected,setProducSelected}) => {
 
-const ProductDetail = ({product}) => {
 
 
   return (
@@ -14,6 +13,30 @@ const ProductDetail = ({product}) => {
         <br/>
         <img src={product.img} alt="" style={{width: "150 px", height: "150px"}} />
 
+  <button  onClick={() =>setShowForm(true) }>Editar</button>
+
+{
+showForm && (
+
+  <form onSubmit={handleSubmit} >
+  <input
+   type="text"
+   defaultValue={product.name}
+   onChange={(e) => setProducSelected({...producSelected, name: e.target.value} )}
+  />
+  <button type="submit">Guardar Cambios</button>
+</form>
+
+)
+
+ 
+}
+
+
+
+
+
+   
     </div>
   )
 }

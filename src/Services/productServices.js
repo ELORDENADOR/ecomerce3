@@ -7,6 +7,10 @@ export const  getproducts = () =>{
     return   productInstance.get()   
 }
 
+export const  getproductById = (id) =>{
+   return   productInstance.get(`http://localhost:5000/water/${id}`)   
+}
+
 export const deleteProduct = (id) =>{
    return  productInstance.delete(`/${id}`)
 }

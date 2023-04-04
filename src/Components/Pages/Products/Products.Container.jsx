@@ -29,13 +29,10 @@ const deleteProductById = (id) =>{
    setMovimientoProducto(true)
 }
 
-const updateProductById = (id) =>{
-    updateProduct(id,{
-      price: 700, 
-      name:"Actualizadicimo"
-    })
-    setMovimientoProducto(true)
-}
+// const updateProductById = (id) =>{
+//     updateProduct(id,{ price: 700,name:"Actualizadicimo"})
+//     setMovimientoProducto(true)
+// }
 
 
   return (
@@ -44,7 +41,7 @@ const updateProductById = (id) =>{
  
   
 <Products 
-    updateProductById = {updateProductById}
+    // updateProductById = {updateProductById}
     deleteProductById = {deleteProductById}   
     items = {items}        
   />

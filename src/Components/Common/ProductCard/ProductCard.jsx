@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const ProductCard = ({elemento,updateProductById,deleteProductById}) => {
+const ProductCard = ({elemento,deleteProductById}) => {
   return (
     <div>
            <div style={{border: "solid 2px"}}>
@@ -13,7 +13,7 @@ const ProductCard = ({elemento,updateProductById,deleteProductById}) => {
                 <img src={elemento.img} alt="" style={{width: "150 px", height: "150px"}} />
 
                 <button onClick={() => deleteProductById(elemento.id)} >delete</button>
-                <button onClick={() => updateProductById(elemento.id)} >Actualizar</button>
+                {/* <button onClick={() => updateProductById(elemento.id)} >Editar</button> */}
              
             <Link to={`/productDetail/${elemento.id}`}>
             <button>Ver detalle</button>
